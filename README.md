@@ -4,25 +4,25 @@ A fun and interactive Dice Game where two players roll virtual dice to compete. 
 
 📌 Features
 
-Random dice roll for both players
+1. Random dice roll for both players
 
-Winner declaration based on dice values
+2. Winner declaration based on dice values
 
-Refresh-safe initial state
+3. Refresh-safe initial state
 
-Simple and beginner-friendly JavaScript logic
+4. Simple and beginner-friendly JavaScript logic
 
-Styled with CSS for a clean UI
+5. Styled with CSS for a clean UI
 
 🚀 How to Play
 
-Open the game in a web browser.
+1. Open the game in a web browser.
 
-Click the "Roll Dice" button to roll.
+2. Click the "Roll Dice" button to roll.
 
-The player with the higher number wins!
+3. The player with the higher number wins!
 
-Click again to play another round.
+4. Click again to play another round.
 
 🛠️ Technologies Used
 
@@ -34,11 +34,11 @@ JavaScript
 
 📂 Installation
 
-Clone this repository:
+1. Clone this repository:
 
 git clone https://github.com/purusottam32/DICE-GAME.git
 
-Open index.html in your browser.
+2. Open dice.html in your browser.
 
 📜 License
 
